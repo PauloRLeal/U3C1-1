@@ -3,7 +3,7 @@
 #include "hardware/i2c.h" // Utilizada para se comunicar com o sensor BH1750
 
 // Configurações de GPIOs e endereços
-#define PINO_SERVO 16     // Pino do Servo 
+#define PINO_SERVO 2     // Pino do Servo 
 
 #define LED_R_PIN 13  // LED vermelho
 #define LED_G_PIN 11  // LED verde
